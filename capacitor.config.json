@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-leaflet-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
