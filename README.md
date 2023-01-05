@@ -36,6 +36,10 @@ This is a sample mobile application that shows how to load ArcGIS Vector basemap
       <h5>ArcGIS Dark Gray</h5>
       <img src="https://user-images.githubusercontent.com/112517097/210891998-a4195ff6-d2ca-46ba-aabf-114430a782ca.png" width="225px"/>
     </td>
+    <td>
+      <h5>ArcGIS Dark Gray</h5>
+      <img src="https://user-images.githubusercontent.com/112517097/210892384-fea0c4a8-2aa7-4c56-887e-6af2f5cac411.png" width="225px"/>
+    </td>
   </tr>
 </table>
 
