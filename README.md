@@ -12,19 +12,25 @@ This is a sample mobile application that shows how to load ArcGIS Vector basemap
   <tr>
     <td>
       <h5>ArcGIS Streets</h5>
-      <img src="https://user-images.githubusercontent.com/112517097/210821479-97a11044-eb24-46e7-9b78-593fd0e10634.png" width="220px"/>
+      <img src="https://user-images.githubusercontent.com/112517097/210821479-97a11044-eb24-46e7-9b78-593fd0e10634.png" width="225px"/>
     </td>
     <td>
       <h5>ArcGIS Navigation</h5>
-      <img src="https://user-images.githubusercontent.com/112517097/210819571-1a1ffe5a-9170-456f-9b4d-f77cdd6b2795.png" width="220px"/>
+      <img src="https://user-images.githubusercontent.com/112517097/210819571-1a1ffe5a-9170-456f-9b4d-f77cdd6b2795.png" width="225px"/>
     </td>
     <td>
       <h5>ArcGIS Topographic</h5>
-      <img src="https://user-images.githubusercontent.com/112517097/210889918-b752ce19-15bc-42b6-8da1-ed2a03f0add2.png" width="220px"/>
+      <img src="https://user-images.githubusercontent.com/112517097/210889918-b752ce19-15bc-42b6-8da1-ed2a03f0add2.png" width="225px"/>
     </td>
     <td>
       <h5>ArcGIS Light Gray</h5>
-      <img src="https://user-images.githubusercontent.com/112517097/210890425-77a64833-5362-4bca-aaa5-fa544dc5c5e0.png" width="220px"/>
+      <img src="https://user-images.githubusercontent.com/112517097/210890425-77a64833-5362-4bca-aaa5-fa544dc5c5e0.png" width="225px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h5>ArcGIS Dark Gray</h5>
+      <img src="https://user-images.githubusercontent.com/112517097/210891244-9a43e2d5-dc41-4bcc-90bf-116f318f50d1.png" width="225px"/>
     </td>
   </tr>
 </table>
