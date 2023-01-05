@@ -45,6 +45,12 @@ This is a sample mobile application that shows how to load ArcGIS Vector basemap
       <img src="https://user-images.githubusercontent.com/112517097/210892718-6bfe9e8f-296a-4185-a603-46662b58f84e.png" width="225px"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h5>ArcGIS Nova</h5>
+      <img src="https://user-images.githubusercontent.com/112517097/210893015-2281808c-56ae-40ea-a0d0-1cdbbaa4856c.png" width="225px"/>
+    </td>
+  </tr>
 </table>
 
 ## Required Dependencies <a name="dep"></a>
