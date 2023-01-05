@@ -11,8 +11,12 @@ This is a sample mobile application that shows how to load ArcGIS Vector basemap
 <table>
   <tr>
     <td>
+      <h5>ArcGIS Streets</h5>
+      <img src="https://user-images.githubusercontent.com/112517097/210821479-97a11044-eb24-46e7-9b78-593fd0e10634.png" width="220px"/>
+    </td>
+    <td>
       <h5>ArcGIS Navigation</h5>
-      <img src="https://user-images.githubusercontent.com/112517097/210819571-1a1ffe5a-9170-456f-9b4d-f77cdd6b2795.png" width="250px"/>
+      <img src="https://user-images.githubusercontent.com/112517097/210819571-1a1ffe5a-9170-456f-9b4d-f77cdd6b2795.png" width="220px"/>
     </td>
   </tr>
 </table>
