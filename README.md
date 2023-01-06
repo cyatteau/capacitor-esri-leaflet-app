@@ -58,6 +58,10 @@ This is a sample mobile application that shows how to load ArcGIS Vector basemap
       <h5>OSM Standard</h5>
       <img src="https://user-images.githubusercontent.com/112517097/211035908-b45a40ef-d3b1-4ee0-9776-733568ca68e4.png" width="225px"/>
     </td>
+    <td>
+      <h5>OSM Streets</h5>
+      <img src="https://user-images.githubusercontent.com/112517097/211037794-4cd85e8a-6cb8-437d-9d75-0b08918b61b8.png" width="225px"/>
+    </td>
   </tr>
 </table>
 
