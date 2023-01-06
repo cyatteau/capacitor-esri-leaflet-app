@@ -50,9 +50,13 @@ This is a sample mobile application that shows how to load ArcGIS Vector basemap
       <h5>ArcGIS Nova</h5>
       <img src="https://user-images.githubusercontent.com/112517097/210893015-2281808c-56ae-40ea-a0d0-1cdbbaa4856c.png" width="225px"/>
     </td>
-      <td>
+    <td>
       <h5>ArcGIS Midcentury</h5>
       <img src="https://user-images.githubusercontent.com/112517097/211033169-72118039-15eb-4007-906c-1151e0ca2ecf.png" width="225px"/>
+    </td>
+    <td>
+      <h5>OSM Standard</h5>
+      <img src="https://user-images.githubusercontent.com/112517097/211035908-b45a40ef-d3b1-4ee0-9776-733568ca68e4.png" width="225px"/>
     </td>
   </tr>
 </table>
